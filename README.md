@@ -1,1 +1,1 @@
-Simple Falppy Bird like game using Python
+Simple Falppy Bird like game using Pygame in Python
